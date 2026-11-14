@@ -37,7 +37,6 @@
             text-decoration: underline;
             word-break: break-all;
         }
-
         /* Animasi halus */
         @keyframes fadeIn {
             from { opacity: 0; transform: translateY(8px); }
